@@ -1,4 +1,4 @@
-package com.dsaDoctor.backend.models;
+package com.dsaDoctor.backend.model;
 
 import lombok.Data;
 import java.util.List;
